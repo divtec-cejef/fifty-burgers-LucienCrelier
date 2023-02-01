@@ -37,11 +37,20 @@ header img  {
 h1 {
     font-family: Georgia;
     color: #FDC032;
-    font-size: 4rem;
+    font-size: 36px;
     line-height: .9;
 }
 
 h2 {
     font-family: Georgia;
-    font-size: 2.5rem;
+    font-size: 2.25rem;
+    font-weight: bold;
+    text-align: left;
 }
+
+h {
+    font-family: Georgia;
+    font-size: 4rem;
+    line-height: .9;
+}
+
